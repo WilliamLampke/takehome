@@ -18,12 +18,12 @@ rails db:reset
 
 ## Usage example
 
-Returning all subscriptions a customer has
+## Returning all subscriptions a customer has
 
 GET /api/v1/customers/1/subscriptions
 
 returns 
-
+```json
 {
     "data": [
         {
@@ -61,13 +61,13 @@ returns
         }
     ]
 }
-
-Creating a new tea subscription for a customer
+```
+## Creating a new tea subscription for a customer
 
 POST /api/v1/customers/1/subscriptions?tea_id=3
 
 returns
-
+```json
 {
     "data": {
         "id": "3",
@@ -81,13 +81,13 @@ returns
         }
     }
 }
-
-Edits the status of a subscription to cancel it
+```
+## Edits the status of a subscription to cancel it
 
 PATCH /api/v1/customers/1/subscriptions/3
 
 returns
-
+```json
 {
     "data": {
         "id": "3",
@@ -101,7 +101,7 @@ returns
         }
     }
 }
-
+```
 ## Development setup
 
 bundle install
