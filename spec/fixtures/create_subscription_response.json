@@ -1,0 +1,13 @@
+{
+    "data": {
+        "id": "3",
+        "type": "subscription",
+        "attributes": {
+            "title": "Green Tea",
+            "price": 7,
+            "status": "active",
+            "frequency": "once a month",
+            "customer_id": 1
+        }
+    }
+}
