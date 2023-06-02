@@ -1,11 +1,10 @@
 # TAKE HOME PROJECT
 > this app can create subscriptions for customers for different teas 
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+### Built With
 
-One to two paragraph statement about your product and what it does.
+[![Ruby]][Ruby-url] [![Rails]][Rails-url]
+
 
 ![Untitled Jam 1](https://github.com/WilliamLampke/takehome/assets/109244868/07b25bbf-02f6-49e6-b6ab-2129bd76910a)
 
