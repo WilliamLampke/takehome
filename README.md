@@ -1,5 +1,5 @@
-# Product Name
-> Short blurb about what your product does.
+# TAKE HOME PROJECT
+> this app can create subscriptions for customers for different teas 
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
