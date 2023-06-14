@@ -15,8 +15,6 @@ bundle install
 
 rails db:reset
 
-## Usage example
-
 ## Returning all subscriptions a customer has
 
 GET /api/v1/customers/1/subscriptions
@@ -101,25 +99,11 @@ returns
     }
 }
 ```
-## Development setup
 
-bundle install
-
-bundle exec rspec spec/(pathname) to run tests
-
-## Release History
-
-## Meta
 
 [https://github.com/github.com/williamLampke](https://github.com/williamLampke)
 
-## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
