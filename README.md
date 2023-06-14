@@ -1,9 +1,8 @@
 # TAKE HOME PROJECT
-> this app can create subscriptions for customers for different teas 
-
+> APi built using the Rails API framework. This app has endpoints to create customers and adding a subscription to a tea to the customer.
 ### Built With
 
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Schema
 ![Untitled Jam 1](https://github.com/WilliamLampke/takehome/assets/109244868/07b25bbf-02f6-49e6-b6ab-2129bd76910a)
