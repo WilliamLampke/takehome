@@ -5,16 +5,23 @@
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-
+### Schema
 ![Untitled Jam 1](https://github.com/WilliamLampke/takehome/assets/109244868/07b25bbf-02f6-49e6-b6ab-2129bd76910a)
 
 
 ## Installation
-
+Clone
+```bash
+git@github.com:WilliamLampke/takehome.git
+```
+Install the gemfile
+```bash
 bundle install
-
+````
+Setup the database
+```bash
 rails db:reset
-
+````
 ## Returning all subscriptions a customer has
 
 GET /api/v1/customers/1/subscriptions
@@ -100,8 +107,10 @@ returns
 }
 ```
 
-
-[https://github.com/github.com/williamLampke](https://github.com/williamLampke)
+### Created by
+William Lampke
+[Github](https://github.com/williamLampke)
+[LinkedIn](https://www.linkedin.com/in/william-lampke-b4a5b5250/)
 
 
 
